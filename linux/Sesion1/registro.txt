@@ -1,0 +1,98 @@
+    1  ls
+    2  pwd
+    3  ls -,+l
+    4  ls -l
+    5  cd
+    6  ls
+    7  cd ..
+    8  ls
+    9  cd ..
+   10  ls
+   11  ls -l
+   12  ls -lh
+   13  ls -l -h
+   14  ls -lh
+   15  sudo reboot
+   16  cd .
+   17  cd ..
+   18  ls
+   19  cd .
+   20  ls
+   21  pwd
+   22  cd ..
+   23  cd home/
+   24  ls
+   25  cd stc/
+   26  ls
+   27  pwd
+   28  cd ..
+   29  cd
+   30  ls
+   31  pwd
+   32  cd ..
+   33  ls
+   34  cd
+   35  ls
+   36  kdjfkjasdfk
+   37  sudo reboot
+   38  man apt-get
+   39  sudo apt-get update
+   40  sudo apt-get autoremove
+   41  clear
+   42  sudo apt-get install vi
+   43* sudo apt-get install vim
+   44  vim --v
+   45  vim --ver
+   46  vim --version
+   47  vim --version | less
+   48  cd ..
+   49  cd
+   50  dpkg
+   51  sudo dpkg -l
+   52  sudo dpkg -l | less
+   53  ls
+   54  cd..
+   55  cd
+   56  sudo bash
+   57  arch
+   58* 
+   59  ps aux
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd home
+   66  cd stc
+   67  ls
+   68  ls -l
+   69  ls lsr
+   70  ls -lsr
+   71  mkdir prueba
+   72  ls
+   73  cd prueba
+   74  ls
+   75  pwd
+   76  cd
+   77  pwd
+   78  cd
+   79  pwd
+   80  touch archivo2.txt
+   81  ls
+   82  nano angelica
+   83  ls
+   84  rm archivo2.txt
+   85  ls
+   86  rm -r prueba
+   87  ls
+   88  mkdir prueba2
+   89  ls
+   90  cd prueba
+   91  cd prueba2
+   92  ls
+   93  mkdir linux
+   94  ls
+   95  cd
+   96  history
+   97  history | less
+   98  history >registro.txt

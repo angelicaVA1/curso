@@ -1,0 +1,53 @@
+    1  ls
+    2  pwd
+    3  ls -,+l
+    4  ls -l
+    5  cd
+    6  ls
+    7  cd ..
+    8  ls
+    9  cd ..
+   10  ls
+   11  ls -l
+   12  ls -lh
+   13  ls -l -h
+   14  ls -lh
+   15  sudo reboot
+   16  cd .
+   17  cd ..
+   18  ls
+   19  cd .
+   20  ls
+   21  pwd
+   22  cd ..
+   23  cd home/
+   24  ls
+   25  cd stc/
+   26  ls
+   27  pwd
+   28  cd ..
+   29  cd
+   30  ls
+   31  pwd
+   32  cd ..
+   33  ls
+   34  cd
+   35  ls
+   36  kdjfkjasdfk
+   37  sudo reboot
+   38  exit
+   39  sudo bash
+   40  EXIT
+   41  exit() q
+   42  exit
+   43  sudo nano /etc/network/interfaces
+   44  sudo reboot now
+   45  ifconfig
+   46  sudo nano /etc/network/interfaces
+   47  sudo reboot now
+   48  ifconfig
+   49  sudo nano /etc/network/interfaces
+   50  sudo reboot now
+   51  ifconfig
+   52  ls
+   53  history > registro1.txt
